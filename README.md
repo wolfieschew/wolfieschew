@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @wolfieschew
+- 👋 Hi, I’m @wolfieschew -Chise
 - 👀 I’m interested in ... Programing World
 - 🌱 I’m currently learning ... HTML, CSS, Java Script
 - 💞️ I’m looking to collaborate on ... Soon
