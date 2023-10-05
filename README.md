@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @wolfieschew -Chase
 - 👀 I’m interested in ... Programing World
-- 🌱 I’m currently learning ... HTML, CSS, Java Script
+- 🌱 I’m currently learning ... HTML, CSS, Java Script and Python
 - 💞️ I’m looking to collaborate on ... Soon
 - 📫 How to reach me ... Soon
 
