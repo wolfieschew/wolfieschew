@@ -1,5 +1,5 @@
 # 🏄‍♂️ Howdy
-- 👋 Hi, I’m @wolfieschew -Chase
+- 👋 Hi, I’m @wolfieschew -Chise
 - 👀 I’m interested in ... Programing World
 - 🌱 I’m currently learning ... HTML, CSS, Java Script and Python
 - 💞️ I’m looking to collaborate on ... Soon
