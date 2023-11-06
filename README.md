@@ -1,6 +1,6 @@
 # 🏄‍♂️ Howdy
 - 👋 Hi, I’m @wolfieschew -Chise
-- 👀 I’m interested in ... Programing World
+- 👀 I’m interested in ... Programing World & Furry Fandom
 - 🌱 I’m currently learning ... HTML, CSS, Java Script and Python
 - 💞️ I’m looking to collaborate on ... Soon
 - 📫 How to reach me ... Soon
