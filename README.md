@@ -17,6 +17,8 @@
 <img align="left" alt="MySQL" width="30px" style="padding-right:10px;" src="https://cdn.simpleicons.org/mysql/4479A1" />
 <img align="left" alt="MySQL" width="30px" style="padding-right:10px;" src="https://cdn.simpleicons.org/mysql/4479A1" />
 <img align="left" alt="Dart" width="30px" style="padding-right:10px;" src="https://cdn.simpleicons.org/dart/0175C2" />
+<img align="left" alt="Laravel" width="30px" style="padding-right:10px;" src="https://cdn.simpleicons.org/laravel/d20e1f" />
+
 
 
 
