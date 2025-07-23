@@ -13,7 +13,9 @@
 ###
 
 <div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=wolfieschew" />
+  <a href="https://www.linkedin.com/in/bagaspermanaa/" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo" />
+  </a>
 </div>
 
 ###
@@ -40,7 +42,7 @@
 ###
 
 <div align="left">
-  <img src="https://skillicons.dev/icons?i=git,html,css,js,react,php,laravel,dart,flutter,npm,vue,mysql,tailwind,androidstudio,vscode" />
+  <img src="https://skillicons.dev/icons?i=git,html,css,js,react,php,laravel,dart,flutter,npm,vue,mysql,tailwind,androidstudio,vscode" width="700" />
 </div>
 
 ###
