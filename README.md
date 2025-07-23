@@ -1,37 +1,46 @@
-# 🏄‍♂️ Howdy
-- 👋 Hi, I’m @wolfieschew -Chise
-- 👀 I’m interested in ... Programing World & Furry Fandom
-- 🌱 I’m currently learning ... HTML, CSS, Java Script and Python FE and BE Language
-- 💞️ I’m looking to collaborate on ... Soon
-- 📫 How to reach me ... Soon
+<div align="center">
+  <img height="150" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ2ludHAzdm1sNnZmN3Rvazg5eWhtOG5peWtlNzRyM3V4emN4bXUxbiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/62xKitsd56K9q/giphy.gif"  />
+</div>
 
-# 🚀 Currently Learn
-<img align="left" alt="HTML" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" />
-<img align="left" alt="CSS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" />
-<img align="left" alt="JavaScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
-<img align="left" alt="Python" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" />
-<img align="left" alt="GitHub" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
-<img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-plain.svg" />
-<img align="left" alt="PHP" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-plain.svg" />
-<img align="left" alt="Git" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
-<img align="left" alt="MySQL" width="30px" style="padding-right:10px;" src="https://cdn.simpleicons.org/mysql/4479A1" />
-<img align="left" alt="Dart" width="30px" style="padding-right:10px;" src="https://cdn.simpleicons.org/dart/0175C2" />
-<img align="left" alt="Laravel" width="30px" style="padding-right:10px;" src="https://cdn.simpleicons.org/laravel/d20e1f" />
+###
 
+<div align="center">
+  <a href="https://www.linkedin.com/in/bagaspermanaa/" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo" />
+  </a>
+</div>
 
+###
 
+<div align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=maurodesouza.maurodesouza&"  />
+</div>
 
+###
 
+<h1 align="center">Howdy, folks!👋</h1>
 
+###
 
+<h3 align="left">👩‍💻  About Me</h3>
 
+###
 
+<p align="left">
+  Hi, I'm Chise from Nowhere!<br><br>
+  🔭 I’m currently working as a Full Stack Developer<br>
+  📚 I’m also learning more about Front-End technologies<br>
+  ⚡ In my free time, I love to explore new tools and build side projects
+</p>
 
+###
 
+<h3 align="left">🛠 Language and tools</h3>
 
+###
 
+<div align="left">
+  <img src="https://skillicons.dev/icons?i=git,html,css,js,react,php,laravel,dart,flutter,npm,vue,mysql,tailwind,androidstudio,vscode" />
+</div>
 
-<!---
-wolfieschew/wolfieschew is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+###
